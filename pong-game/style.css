@@ -1,0 +1,26 @@
+body {
+    width: 22cm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(215, 255, 215, 0.555);
+}
+
+body header img {
+    border-radius: 20px;
+}
+
+body div {
+    background-color: rgba(216, 209, 209, 0.651);
+    padding: 2rem;
+}
+
+body div footer {
+    background-color: rgb(53, 80, 64);
+    color: #fafafa;
+    padding: 0.5rem;
+}
+
+body div footer a {
+    color: #fafafa;
+    text-decoration: none;
+}
